@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="DHT22_diagram 拷貝.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-759.01814"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="802"
+     inkscape:window-x="80"
+     inkscape:window-y="21"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ebebeb;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="128.5119"
+       height="214.69048"
+       x="60.476189"
+       y="33.92857" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Droid;-inkscape-font-specification:Droid;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion819"><rect
+           id="rect821"
+           width="285.71429"
+           height="137.14285"
+           x="274.28571"
+           y="199.66254" /></flowRegion><flowPara
+         id="flowPara823" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Droid;-inkscape-font-specification:Droid;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="103.56547"
+       y="70.970238"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         x="103.56547"
+         y="81.013824"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.96429634px;line-height:1.25;font-family:Droid;-inkscape-font-specification:Droid;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62425607"
+       x="43.539776"
+       y="181.25272"
+       id="text831"
+       transform="scale(1.8448171,0.54205915)"><tspan
+         sodipodi:role="line"
+         id="tspan829"
+         x="43.539776"
+         y="181.25272"
+         style="font-size:29.96429634px;stroke-width:0.62425607">DHT11</tspan><tspan
+         sodipodi:role="line"
+         x="43.539776"
+         y="218.70808"
+         style="font-size:29.96429634px;stroke-width:0.62425607"
+         id="tspan833">module</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.04069413;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect839"
+       width="20.832846"
+       height="3.9083443"
+       x="18.898815"
+       y="162.3119"
+       inkscape:tile-cx="-14.363094"
+       inkscape:tile-cy="53.897019"
+       inkscape:tile-w="80.210759"
+       inkscape:tile-h="3.9881542"
+       inkscape:tile-x0="-54.468474"
+       inkscape:tile-y0="51.902942" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect839"
+       xlink:href="#rect839"
+       id="use4582"
+       width="100%"
+       height="100%"
+       transform="translate(-2.8571429e-6)" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect839"
+       xlink:href="#rect839"
+       transform="translate(-2.8571429e-6,15.952617)"
+       id="use4584"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect839"
+       xlink:href="#rect839"
+       transform="translate(-2.8571429e-6,31.905239)"
+       id="use4586"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect839"
+       xlink:href="#rect839"
+       transform="translate(20.853597)"
+       id="use4588"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect839"
+       xlink:href="#rect839"
+       transform="translate(20.853597,15.952617)"
+       id="use4590"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect839"
+       xlink:href="#rect839"
+       transform="translate(20.853597,31.905239)"
+       id="use4592"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.02944756px;line-height:1.25;font-family:Droid;-inkscape-font-specification:Droid;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7257362"
+       x="45.087212"
+       y="234.81717"
+       id="text4596"
+       transform="scale(1.3879556,0.72048413)"><tspan
+         sodipodi:role="line"
+         id="tspan4594"
+         x="45.087212"
+         y="234.81717"
+         style="stroke-width:0.7257362">DAT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.83624268px;line-height:1.25;font-family:Droid;-inkscape-font-specification:Droid;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67090601"
+       x="43.017906"
+       y="274.96555"
+       id="text4600"
+       transform="scale(1.4680914,0.68115649)"><tspan
+         sodipodi:role="line"
+         id="tspan4598"
+         x="43.017906"
+         y="274.96555"
+         style="stroke-width:0.67090601">VCC</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Droid;-inkscape-font-specification:Droid;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4604"><rect
+           id="rect4606"
+           width="100"
+           height="60"
+           x="285.71429"
+           y="708.23395" /></flowRegion><flowPara
+         id="flowPara4608" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.35188293px;line-height:1.25;font-family:Droid;-inkscape-font-specification:Droid;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.65879709"
+       x="44.134071"
+       y="297.33667"
+       id="text4612"
+       transform="scale(1.4367659,0.69600761)"><tspan
+         sodipodi:role="line"
+         id="tspan4610"
+         x="44.134071"
+         y="297.33667"
+         style="stroke-width:0.65879709">gnd</tspan></text>
+  </g>
+</svg>

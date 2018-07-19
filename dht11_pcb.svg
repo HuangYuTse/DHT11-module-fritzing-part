@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   gorn="0"
+   width="36"
+   height="18"
+   id="svg4364"
+   sodipodi:docname="dht22_pcb.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="802"
+     id="namedview108"
+     showgrid="false"
+     inkscape:zoom="12.027778"
+     inkscape:cx="18"
+     inkscape:cy="-5.3361744"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer8" />
+  <desc
+     id="desc2">
+    <referenceFile>AM2302_Humidity_and_Temperature_Sensor____pcb__9c268c2c521ede51978cd4e3b9b39a74.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs4366" />
+  <metadata
+     id="metadata4369">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 1">
+    <g
+       inkscape:groupmode="layer"
+       id="copper1"
+       inkscape:label="copper1">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:0.01785715;stroke:#f3bd19;stroke-width:1.80200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path930"
+         cx="18.290995"
+         cy="9.0208015"
+         r="2.6605082" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:0.01785715;stroke:#f3bd19;stroke-width:1.70262921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path933"
+         cx="28.434172"
+         cy="9.0208015"
+         r="2.7101853" />
+         <circle
+         style="opacity:1;fill:#000000;fill-opacity:0.01785715;stroke:#f3bd19;stroke-width:1.70262921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path928"
+         cx="-7.2883682"
+         cy="9.0208015"
+         transform="scale(-1,1)"
+         r="2.7101853" />
+    </g>
+  </g>
+</svg>
