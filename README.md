@@ -1,6 +1,6 @@
 # DHT11-module-fritzing-part
 --------
-
+## 喜歡請給個星星吧Orz
 這是一個DHT11模組的fritzing part<br />
 ![圖例](./DHT11.png)<br />
 你可以自由使用這個fritzing part<br />
